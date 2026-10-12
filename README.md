@@ -1,6 +1,8 @@
 # Project Genesis
 ## Autonome KI-Agenten in Minecraft
 
+**Sprache / Language:** Deutsch | [English](README.en.md)
+
 Project Genesis ist ein privates Entwicklungsprojekt mit einem langfristigen Ziel: In einer persistenten Minecraft-Welt sollen KI-Agenten als eigenständige Individuen leben. Sie sollen eigene Interessen verfolgen, Erfahrungen berücksichtigen, ihre Umgebung verändern und andere Agenten kennenlernen.
 
 Es gibt keine vorgegebenen Berufe und keine vorgeschriebene Gesellschaftsform. Zusammenarbeit, Tausch, Konflikte, Einzelgängertum und gemeinsame Siedlungen gehören zu den möglichen Entwicklungen. Das ist die Projektvision, keine Beschreibung eines bereits vollständig funktionierenden Systems.
