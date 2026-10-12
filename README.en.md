@@ -29,7 +29,7 @@ Screenshots from the development of Project Genesis are shared here.
 
 This page is intended for the project description, development reports, and selected images. It does not contain the agent's source code, internal work logs, or agent memories.
 
-I intend to share the code in the future with people who have supported Project Genesis through a donation, once development has reached a suitable stage and I decide to release it. A release date and the exact terms have not yet been determined.
+The agent's source code is not currently public. I will decide separately on any future release and its terms. Donations support development and are not tied to any reward or benefit in return.
 
 ## Support Project Genesis
 
