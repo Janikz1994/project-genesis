@@ -23,6 +23,8 @@ Some functional runs have used Normal difficulty with Creepers disabled and docu
 
 Screenshots from the development of Project Genesis are shared here.
 
+[**View the screenshot gallery**](GALLERY.en.md)
+
 ## Documentation and Source Code
 
 This page is intended for the project description, development reports, and selected images. It does not contain the agent's source code, internal work logs, or agent memories.

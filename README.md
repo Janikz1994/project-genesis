@@ -23,6 +23,8 @@ Die bisherigen Funktionsläufe fanden teilweise auf Schwierigkeit Normal ohne Cr
 
 Hier werden Screenshots aus der Entwicklung von Project Genesis gezeigt.
 
+[**Zur Bildergalerie**](GALLERY.md)
+
 ## Dokumentation und Quellcode
 
 Diese Seite ist für Projektbeschreibung, Entwicklungsberichte und ausgewählte Bilder vorgesehen. Sie enthält nicht den Quellcode des Agenten, interne Arbeitsprotokolle oder Agentengedächtnisse.
