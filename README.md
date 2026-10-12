@@ -27,6 +27,12 @@ Diese Seite ist für Projektbeschreibung, Entwicklungsberichte und ausgewählte 
 
 Ich beabsichtige, den Code später an Menschen weiterzugeben, die Project Genesis mit einer Spende unterstützt haben, sobald der Entwicklungsstand dafür geeignet ist und ich mich zur Herausgabe entscheide. Ein Veröffentlichungstermin und die genauen Bedingungen sind noch nicht festgelegt.
 
+## Project Genesis unterstützen
+
+Die weitere Entwicklung des Projekts kannst du über meine GoFundMe-Kampagne unterstützen:
+
+[Project Genesis auf GoFundMe unterstützen](https://gofund.me/24c331f9d)
+
 ## Unabhängiges Projekt
 
 Project Genesis ist kein offizielles Minecraft-Produkt und nicht mit Mojang oder Microsoft verbunden.
