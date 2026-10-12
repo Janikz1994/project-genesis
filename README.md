@@ -29,7 +29,7 @@ Hier werden Screenshots aus der Entwicklung von Project Genesis gezeigt.
 
 Diese Seite ist für Projektbeschreibung, Entwicklungsberichte und ausgewählte Bilder vorgesehen. Sie enthält nicht den Quellcode des Agenten, interne Arbeitsprotokolle oder Agentengedächtnisse.
 
-Ich beabsichtige, den Code später an Menschen weiterzugeben, die Project Genesis mit einer Spende unterstützt haben, sobald der Entwicklungsstand dafür geeignet ist und ich mich zur Herausgabe entscheide. Ein Veröffentlichungstermin und die genauen Bedingungen sind noch nicht festgelegt.
+Der Agentencode ist derzeit nicht öffentlich. Über eine spätere Veröffentlichung und deren Bedingungen entscheide ich gesondert. Spenden unterstützen die Entwicklung und sind nicht an eine Gegenleistung gebunden.
 
 ## Project Genesis unterstützen
 
