@@ -9,17 +9,25 @@ There are no predefined professions and no prescribed form of society. Cooperati
 
 ## Current Development Status
 
-The current focus is on a single agent and how its everyday activities fit together: gathering resources, using suitable tools, preparing food, finding its way back to work sites, and using or developing a home.
+**As of October 23, 2026.** The focus remains on a single agent and how its everyday activities fit together: gathering resources, using suitable tools, preparing food, finding its way back to work sites, and making sensible use of existing infrastructure.
 
-Various documented free-running development tests have shown the agent crafting a stone sword and using it to hunt, preparing soil and sowing wheat, and collecting and eating cooked food.
+One documented 45-minute natural development run demonstrated hunting, collection, processing and consumption of food, furnace crafting and reuse, and resuming work after night and danger. The agent survived that run and retained a small cooked food reserve. This is concrete progress, not a guarantee of sustained self-sufficiency.
 
-Other activities have been evaluated in prepared functional tests. These tests show whether a capability can be carried out under the stated conditions. They do not automatically demonstrate that the agent will reliably choose and repeatedly use that capability during free play.
+Separate prepared functional tests covered, among other things, a field with 32 planting positions and ten loaves of bread produced after explicitly prepared crop maturity, as well as initial social actions. These results are not equivalent to autonomous farming through a complete natural growth cycle or spontaneously developed cooperation.
+
+**The main open issue remains coherent action flow.** Long transitions, repeated journeys, and mismatches between chosen intentions and execution are still being investigated. A consistently sensible, fluid daily routine has not yet been established. Ongoing work is not presented as a completed success.
+
+## Development Updates
+
+[**October 23, 2026 – Food, farming, and the path toward a coherent daily routine**](updates/2026-10-23.en.md)
+
+The report covers the natural 45-minute run, larger prepared field tests, seed acquisition, initial social interaction, and remaining problems in everyday behavior. [Deutsche Version](updates/2026-10-23.md)
 
 ## How Progress Is Reported
 
-Development reports distinguish between implemented changes, prepared functional tests, and behavior actually observed during free play. Known issues and areas where evidence is still missing are also reported.
+Development reports distinguish between implemented changes, prepared functional tests, and behavior actually observed during free play. Known issues and areas where evidence is still missing are also reported. A result applies to the tested development version, not automatically to later changes.
 
-Some functional runs have used Normal difficulty with Creepers disabled and documented changes of the time of day to daytime. They therefore do not provide unrestricted evidence of survival through the natural day–night cycle.
+Natural integration runs are reported separately from prepared tests or sessions modified through operator commands. The described 45-minute run used Survival on Normal difficulty with Creepers disabled and no assistance. Other spectator and functional sessions included documented changes of the time of day to daytime; those are not unrestricted evidence of natural nighttime survival.
 
 Screenshots from the development of Project Genesis are shared here.
 
