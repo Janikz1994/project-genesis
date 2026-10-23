@@ -9,17 +9,25 @@ Es gibt keine vorgegebenen Berufe und keine vorgeschriebene Gesellschaftsform. Z
 
 ## Aktueller Entwicklungsstand
 
-Der Schwerpunkt liegt derzeit auf einem einzelnen Agenten und seinem zusammenhängenden Alltag: Ressourcen gewinnen, geeignete Werkzeuge einsetzen, Nahrung verarbeiten, Arbeitsorte wiederfinden und ein Zuhause nutzen oder weiterentwickeln.
+**Stand: 23. Oktober 2026.** Der Schwerpunkt liegt weiterhin auf einem einzelnen Agenten und seinem zusammenhängenden Alltag: Ressourcen gewinnen, geeignete Werkzeuge einsetzen, Nahrung verarbeiten, Arbeitsorte wiederfinden und vorhandene Infrastruktur sinnvoll nutzen.
 
-In verschiedenen dokumentierten freien Entwicklungsversuchen wurden unter anderem die selbstständige Herstellung und Jagdnutzung eines Steinschwerts, Bodenbearbeitung mit anschließender Weizenaussaat sowie die Entnahme und der Verzehr von gekochtem Essen beobachtet.
+Ein dokumentierter 45-minütiger natürlicher Entwicklungsversuch zeigte Jagd, Aufnahme, Verarbeitung und Verzehr von Nahrung, Ofenherstellung und -wiederverwendung sowie die Wiederaufnahme von Arbeit nach Nacht und Gefahr. Der Agent überlebte diesen Lauf und behielt einen kleinen gekochten Vorrat. Das ist ein konkreter Fortschritt, keine Garantie dauerhafter Selbstversorgung.
 
-Weitere Abläufe wurden in vorbereiteten Funktionstests geprüft. Solche Tests zeigen, ob eine Fähigkeit unter den angegebenen Bedingungen ausgeführt werden kann. Sie beweisen nicht automatisch, dass der Agent sie im freien Alltag zuverlässig auswählt und wiederholt nutzt.
+In getrennten vorbereiteten Funktionstests wurden unter anderem ein Feld mit 32 Pflanzstellen und zehn daraus hergestellte Brote nach vorbereiteter Reife sowie erste soziale Handlungen geprüft. Diese Ergebnisse sind nicht mit autonomer Landwirtschaft über einen vollständigen natürlichen Wachstumszyklus oder spontan entstandener Zusammenarbeit gleichzusetzen.
+
+**Der wichtigste offene Punkt bleibt der Handlungsfluss.** Lange Übergänge, wiederholte Wege und Widersprüche zwischen gewählter Absicht und tatsächlicher Ausführung werden weiter untersucht. Ein durchgehend sinnvoller, flüssiger Alltag ist noch nicht bestätigt. Laufende Nacharbeit wird nicht vorab als Erfolg dargestellt.
+
+## Entwicklungsupdates
+
+[**23. Oktober 2026 – Versorgung, Landwirtschaft und der Weg zu einem flüssigen Alltag**](updates/2026-10-23.md)
+
+Der Bericht beschreibt den natürlichen 45-Minuten-Lauf, größere vorbereitete Feldtests, Saatgutbeschaffung, erste soziale Interaktionen und die noch offenen Alltagsprobleme. [English version](updates/2026-10-23.en.md)
 
 ## Wie hier über Fortschritte berichtet wird
 
-Die Entwicklungsberichte unterscheiden zwischen implementierten Änderungen, vorbereiteten Funktionstests und tatsächlich beobachtetem freiem Verhalten. Bekannte Fehler und fehlende Nachweise werden mitgenannt.
+Die Entwicklungsberichte unterscheiden zwischen implementierten Änderungen, vorbereiteten Funktionstests und tatsächlich beobachtetem freiem Verhalten. Bekannte Fehler und fehlende Nachweise werden mitgenannt. Ein Nachweis gilt für den jeweils geprüften Entwicklungsstand, nicht automatisch für spätere Änderungen.
 
-Die bisherigen Funktionsläufe fanden teilweise auf Schwierigkeit Normal ohne Creeper und mit dokumentierten Zeitsprüngen auf Tag statt. Sie sind deshalb kein uneingeschränkter Nachweis für natürliches Tag-Nacht-Überleben.
+Natürliche Integrationsläufe und vorbereitete beziehungsweise durch Betreiberbefehle veränderte Tests werden getrennt ausgewiesen. Der beschriebene 45-Minuten-Lauf fand auf Survival/Normal ohne Creeper und ohne Hilfseingriffe statt. Andere Zuschauer- und Funktionsläufe enthielten dokumentierte Zeitsprünge auf Tag; diese sind kein uneingeschränkter Nachweis natürlicher Nachtbewältigung.
 
 Hier werden Screenshots aus der Entwicklung von Project Genesis gezeigt.
 
